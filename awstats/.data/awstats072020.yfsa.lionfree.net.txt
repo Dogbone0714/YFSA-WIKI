@@ -1,0 +1,333 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202007 will be lost/reset.
+# Last config file used to build this data file was /home/yfsalion/domains/yfsa.lionfree.net/awstats/.data/awstats.yfsa.lionfree.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2112                
+POS_TIME 2790                
+POS_VISITOR 7570                
+POS_DAY 8252                
+POS_DOMAIN 3384                
+POS_LOGIN 3614                
+POS_ROBOT 3769                
+POS_WORMS 3949                
+POS_EMAILSENDER 4080                
+POS_EMAILRECEIVER 4223                
+POS_SESSION 8520                
+POS_SIDER 8709                
+POS_FILETYPES 4358                
+POS_DOWNLOADS 4546                
+POS_OS 4594                
+POS_BROWSER 4744                
+POS_SCREENSIZE 4910                
+POS_UNKNOWNREFERER 4984                
+POS_UNKNOWNREFERERBROWSER 5071                
+POS_ORIGIN 5153                
+POS_SEREFERRALS 5289                
+POS_PAGEREFS 5433                
+POS_SEARCHWORDS 5635                
+POS_KEYWORDS 5787                
+POS_MISC 2453                
+POS_ERRORS 5846                
+POS_CLUSTER 3470                
+POS_SIDER_403 5978                
+POS_SIDER_400 6109                
+POS_SIDER_404 6191                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200712011256 63 17076 16195317933225
+FirstTime 20200701122354
+LastTime 20200711232906
+LastUpdate 20200715032338 0 0 0 0 0
+TotalVisits 18                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 15                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 12 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 18 23 693520 23 27 128103
+2 0 0 0 0 0 0
+3 0 0 0 2 2 842
+4 0 0 0 2 2 7069
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 3 3 8060
+9 0 0 0 0 0 0
+10 22 22 44782 7 7 10425
+11 31 35 284553 7 9 29481
+12 30 34 756770 5 7 22007
+13 0 0 0 0 0 0
+14 17 27 465920 16 20 20735
+15 0 0 0 0 0 0
+16 0 0 0 4 8 113164
+17 3 3 17264 3 5 54401
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 20 25 290646 7 8 4936
+22 16 20 84804 7 9 13206
+23 250 272 2442333 50 64 322214
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 407 461 5080592
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+facebookexternalhit/ 24 499945 20200712011256 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 330 3766010 0 0
+css 2 2590 0 0
+png 17 50782 0 0
+jpg 27 740683 0 0
+shtml 3 653 0 0
+Unknown 74 505641 0 0
+gif 8 14233 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+androidpie 21 13
+ios_iphone 23 18
+android10 25 24
+win10 381 345
+androidlollipop 11 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+iphone 23 18
+chrome74.0.3729.131 3 3
+chrome66.0.3359.158 11 7
+chrome83.0.4103.116 378 342
+chrome83.0.4103.106 46 37
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 35 35
+From1 0 0
+From2 0 0
+From3 7 7
+From4 365 419
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://m.facebook.com 6 6
+https://l.messenger.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 1 711
+302 25 2346
+204 7 0
+404 26 65143
+301 73 62141
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 1
+/index.php 1 https://yfsa.lionfree.net/index.php
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 15
+/index.php/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E6%B0%B8%E8%B1%90%E9%AB%98%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%9C%83:%E9%97%9C%E6%96%BC 1 https://yfsa.lionfree.net/index.php/%E9%A6%96%E9%A0%81
+/discuz/index.php/ 1 -
+/%22static/image/common/qq_big.gif/%22 1 https://yfsa.lionfree.net/discuz/install/index.php
+/discuz 2 -
+/index.php/%E6%B0%B8%E8%B1%90%E5%AD%B8%E7%94%9F%E6%9C%83 1 -
+/discuz/install/static/image/common/ann_icon.gif 2 https://yfsa.lionfree.net/discuz/install/index.php
+/discuz/install/%7Bicon%7D 1 https://yfsa.lionfree.net/discuz/install/index.php
+/index.php/%E6%9D%8E%E8%8A%AE%E7%91%84 2 -
+/discuz/install/%7Bavatar%7D 2 https://yfsa.lionfree.net/discuz/install/index.php
+/discuz/ 1 -
+/index.php/%E7%89%B9%E6%AE%8A:Infobox 2 -
+/index.php/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E6%B0%B8%E8%B1%90%E9%AB%98%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%9C%83:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96 1 https://yfsa.lionfree.net/index.php
+/index.php/\xe6\x9d\x8e\xe8\x8a\xae\xe7\x91%84 6 -
+/errordocs/ 1 -
+/discuz/install/%7Bpic%7D 2 https://yfsa.lionfree.net/discuz/install/index.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+114.37.6.210 124 131 770168 20200704112042
+36.228.162.53 119 124 633733 20200701235924
+1.161.190.102 55 60 905309 20200701233303
+42.73.205.139 21 21 438118 20200701122512
+111.241.47.54 18 23 290107 20200708214555
+114.137.1.218 18 23 693520 20200702013046
+1.163.197.159 16 26 460309 20200711142310
+223.136.105.255 9 13 318652 20200702121250
+111.241.39.6 7 11 18215 20200711232906
+61.223.18.38 7 11 240386 20200706230825
+3.12.36.15 3 3 17264 20200705171414
+114.137.38.42 3 3 5613 20200711225355
+36.238.145.23 4 8 183249 20200704110506
+42.73.231.125 2 3 99799 20200706230715
+42.73.144.50 1 1 6150 20200701214857
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20200701 196 206 1983310 4
+20200702 27 36 1012172 2
+20200703 75 82 624082 1
+20200704 53 57 329335 2
+20200705 3 3 17264 1
+20200706 9 14 340185 2
+20200707 1 1 5611 1
+20200708 17 22 284496 1
+20200711 26 40 484137 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+30s-2mn 3
+0s-30s 9
+15mn-30mn 1
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 35
+/api.php 133 16123 0 1
+/load.php 131 2934917 3 9
+/ 56 383798 1 1
+/index.php/%E9%A6%96%E9%A0%81 34 201601 13 3
+/discuz/install/ 6 419591 0 0
+/index.php/%E6%B0%B8%E8%B1%90%E5%AD%B8%E7%94%9F%E6%9C%83Wiki:%E6%AD%A1%E8%BF%8E 4 31183 0 1
+/index.php/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A0%81%E9%9D%A2 3 21140 0 0
+/index.php/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E6%B0%B8%E8%B1%90%E9%AB%98%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%9C%83:%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96 3 23601 0 0
+/index.php/%E7%89%B9%E6%AE%8A:%E8%BF%91%E6%9C%9F%E8%AE%8A%E5%8B%95 3 45571 0 0
+/index.php/%E7%89%B9%E6%AE%8A:%E9%9C%80%E8%A6%81%E7%9A%84%E6%A8%A1%E6%9D%BF 2 9397 0 0
+/index.php/%E4%BD%BF%E7%94%A8%E8%80%85:Dogbone0714 1 4665 0 0
+/errordocs/500.shtml 1 234 0 0
+/index.php/%E7%89%B9%E6%AE%8A:%E6%97%A5%E8%AA%8C/Dogbone0714 1 10531 0 0
+/index.php/%E7%89%B9%E6%AE%8A:%E5%8C%AF%E5%87%BA 1 5945 0 0
+/index.php/%E7%89%B9%E6%AE%8A:%E6%96%B0%E5%A2%9E%E9%A0%81%E9%9D%A2 2 16650 0 0
+/index.php/%E6%A8%A1%E6%9D%BF:Documentation 1 5844 0 0
+/Discuz/install/ 2 9163 0 0
+/index.php/%E6%A8%A1%E7%B5%84:Infobox 2 20010 0 1
+/index.php/%E6%B0%B8%E8%B1%90%E5%AD%B8%E7%94%9F%E6%9C%83Wiki:%E6%B2%99%E7%9B%92 1 5351 0 0
+/errordocs/404.shtml 1 204 0 1
+/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%AA%E4%BD%BF%E7%94%A8%E7%9A%84%E6%A8%A1%E6%9D%BF 2 10335 0 0
+/index.php/%E6%A8%A1%E7%B5%84:Navbar 1 6909 0 0
+/errordocs/403.shtml 1 215 0 0
+/index.php/%E6%A1%83%E5%9C%92%E5%B8%82%E7%AB%8B%E6%B0%B8%E8%B1%90%E9%AB%98%E4%B8%AD%E5%AD%B8%E7%94%9F%E6%9C%83:%E4%B8%80%E8%88%AC%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E 1 6060 0 0
+/index.php/%E7%89%B9%E6%AE%8A:%E7%89%88%E6%9C%AC 2 20417 0 0
+/index.php/%E6%9D%8E%E8%8A%AE%E7%91%84 1 5480 0 0
+/index.php/%E7%89%B9%E6%AE%8A:%E7%B5%B1%E8%A8%88%E8%B3%87%E8%A8%8A 1 4381 0 0
+/index.php/%E7%89%B9%E6%AE%8A:%E4%BD%BF%E7%94%A8%E8%80%85%E8%B2%A2%E7%8D%BB/Dogbone0714 1 12893 0 0
+/index.php/%E6%B0%B8%E8%B1%90%E5%AD%B8%E7%94%9F%E6%9C%83wiki:%E7%95%99%E8%A8%80%E6%9D%BF 1 5671 0 0
+/index.php/%E6%B0%B8%E8%B1%90%E5%AD%B8%E7%94%9F%E6%9C%83%E8%BB%BC%E8%81%9E%E8%A8%88%E7%95%AB 2 11958 0 1
+/index.php/%E7%89%B9%E6%AE%8A:%E6%9C%AA%E5%88%86%E9%A1%9E%E7%9A%84%E5%88%86%E9%A1%9E 1 4361 0 0
+/index.php/%E7%89%B9%E6%AE%8A:%E5%8C%AF%E5%85%A5 2 9639 0 0
+/discuz/ 1 1221 0 0
+/discuz/misc.php 1 1197 0 0
+/index.php/\xe9\xa6\x96\xe9\xa0%81 1 6048 1 0
+END_SIDER
